@@ -3,3 +3,7 @@
 - Roquefort
 - Compté
 - Fontina
+- Asiago
+- Brie
+- American
+- Parmesan
