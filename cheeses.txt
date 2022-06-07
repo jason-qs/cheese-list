@@ -3,3 +3,12 @@
 - Roquefort
 - Compté
 - Fontina
+- Asiago
+- Brie
+- American
+- Parmesan
+- Fromage Blanc
+- Pepperjack
+- 1
+- 2
+- 3
